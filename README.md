@@ -1,5 +1,6 @@
 # Project
 Face Recognition
+# This code is about the face recognition, u will get to know some basic steps about face recogniton.
 import face_recognition as fr
 import cv2
 import numpy as np
